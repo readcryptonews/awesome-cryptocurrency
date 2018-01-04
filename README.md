@@ -39,7 +39,6 @@ Awesome-Cryptocurrency is an curated list for people who want to learn about cry
 * [🇺🇸 Coinbase](https://www.coinbase.com/) - Provides less than 10 coins, was previously the number one app on the AppStore.
 * [🇺🇸 GDAX](https://www.gdax.com/) - Provides less than 10 coins, Coinbase partner.
 * [🇺🇸 Gemini](https://gemini.com/) - Provides less than 10 coins, founded by the Winklevoss Twins.
-* [🇺🇸 Poloniex](https://poloniex.com/) - Provides 99 different coins.
 * [🇨🇦 QuadrigaCX](https://www.quadrigacx.com/) - Provides less than 10 coins, Popular Canada-based exchage.
 * [🇨🇭 Shapeshift](https://shapeshift.io/) - Allows swaps between over 60 different assets without an account.
 

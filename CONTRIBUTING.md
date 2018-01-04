@@ -8,8 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure new items are in alphabetical order
-- If you're adding an exchange, make sure to add the emoji flag of where the company based out of
+- New items are in alphabetical order.
+- New entries are consistent (all entry descriptions end in a `.`).
+- If adding an exchange, make sure to add the emoji flag of where the company based out of.
 
 Thank you for your suggestions!
 

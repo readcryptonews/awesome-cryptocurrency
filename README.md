@@ -19,12 +19,11 @@ Awesome-Cryptocurrency is an curated list for people who want to learn about cry
 - [Blockchain Technology](#blockchain-technology)
 - [Charts](#charts)
 - [Exchanges](#exchanges)
-- [Mobile Apps](#mobile-apps)
 - [Wallets](#wallets)
 
 ## Blockchain Technology
 * [Cryptokitties](https://www.cryptokitties.co/) - Ethereum-based web-app to collect and breed digital cats. Good learning tool.
-* [MetaMask](https://metamask.io/) - a chrome extension that allows you to visit and run Ethereum dApps in your browser without running a full Ethereum node.
+* [MetaMask](https://metamask.io/) - A chrome extension that allows you to visit and run Ethereum dApps in your browser without running a full Ethereum node.
 
 ## Charts
 * [CoinMarketCap](https://coinmarketcap.com/) - Market capitilization rankings, and charts for cryptocurrencies, and exchanges.
@@ -35,14 +34,15 @@ Awesome-Cryptocurrency is an curated list for people who want to learn about cry
 * [🇭🇰 Binance](https://www.binance.com/) - Provides over 200 different coins, and is fast and easy to setup. 
 * [🇺🇸 Bittrex](https://bittrex.com/) - Provides over 270 different coins, [new signups are temporarily suspended](https://support.bittrex.com/hc/en-us/articles/115003463331).
 * [🇬🇧 CEX](https://cex.io/) - Provides less than 10 coins, [new registrations are temporarily suspended](https://cex.io/#/modal/register).
+* [🇨🇿 Changelly](https://changelly.com/) - Allows swaps between over 50 different assets without an account.
 * [🇺🇸 Coinbase](https://www.coinbase.com/) - Provides less than 10 coins, was previously the number one app on the AppStore.
 * [🇺🇸 GDAX](https://www.gdax.com/) - Provides less than 10 coins, Coinbase partner.
 * [🇺🇸 Gemini](https://gemini.com/) - Provides less than 10 coins, founded by the Winklevoss Twins.
 * [🇺🇸 Poloniex](https://poloniex.com/) - Provides 99 different coins.
 * [🇨🇦 QuadrigaCX](https://www.quadrigacx.com/) - Provides less than 10 coins, Popular Canada-based exchage.
-
-## Mobile Apps
-* [blah](https://blah.com/) - blah
+* [🇨🇭 Shapeshift](https://shapeshift.io/) - Allows swaps between over 60 different assets without an account.
 
 ## Wallets
-* [blah](https://blah.com/) - blah
+* [Exodus](https://www.exodus.io/) - A desktop multi-asset wallet with ShapeShift built in.
+* [MyEtherWallet](https://www.myetherwallet.com/) - A free and [open-source](https://github.com/myetherwallet) website to generate Ethereum wallets.
+* [Trezor](https://trezor.io/) - A hardware wallet that supports any ERC20 token.

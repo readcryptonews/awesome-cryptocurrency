@@ -24,6 +24,7 @@ Awesome-Cryptocurrency is an curated list for people who want to learn about cry
 ## Blockchain Technology
 * [Cryptokitties](https://www.cryptokitties.co/) - Ethereum-based web-app to collect and breed digital cats. Good learning tool.
 * [MetaMask](https://metamask.io/) - A chrome extension that allows you to visit and run Ethereum dApps in your browser without running a full Ethereum node.
+* [Status](https://status.im/) - A mobile Ethereum OS to browse, chat and make payments.
 
 ## Charts
 * [CoinMarketCap](https://coinmarketcap.com/) - Market capitilization rankings, and charts for cryptocurrencies, and exchanges.
